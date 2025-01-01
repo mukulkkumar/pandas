@@ -9,3 +9,6 @@
   * Astype method
   * Sort a dataframe with a sort_values method
   * Sort a dataframe with a sort_index and rank method
+
+* Filtering DataFrame
+  * filter dataframe based on the condition
