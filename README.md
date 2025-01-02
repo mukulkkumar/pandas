@@ -14,3 +14,4 @@
   * filter dataframe based on the condition
   * filter with more than one condition (AND)
   * filter with more than one condition (OR)
+  * isin method
