@@ -15,3 +15,4 @@
   * filter with more than one condition (AND)
   * filter with more than one condition (OR)
   * isin method
+  * isnull and notnull method
