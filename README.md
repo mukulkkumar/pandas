@@ -16,3 +16,4 @@
   * filter with more than one condition (OR)
   * isin method
   * isnull and notnull method
+  * between method
