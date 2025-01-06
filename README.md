@@ -19,3 +19,4 @@
   * between method
   * duplicated method
   * drop_duplicates method
+  * unique and nunique method
