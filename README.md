@@ -17,3 +17,4 @@
   * isin method
   * isnull and notnull method
   * between method
+  * duplicated method
