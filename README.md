@@ -18,3 +18,4 @@
   * isnull and notnull method
   * between method
   * duplicated method
+  * drop_duplicates method
