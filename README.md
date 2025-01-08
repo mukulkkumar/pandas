@@ -20,3 +20,6 @@
   * duplicated method
   * drop_duplicates method
   * unique and nunique method
+
+* Data Extraction
+  * set_index and reset_index method
