@@ -23,3 +23,4 @@
 
 * Data Extraction
   * set_index and reset_index method
+  * retrieve row by index position with iloc accessor
