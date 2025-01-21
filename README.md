@@ -25,3 +25,4 @@
   * set_index and reset_index method
   * retrieve row by index position with iloc accessor
   * retrieve row by index label with loc accessor
+  * second arguments to loc and iloc accessor
