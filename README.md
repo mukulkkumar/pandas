@@ -27,3 +27,4 @@
   * retrieve row by index label with loc accessor
   * second arguments to loc and iloc accessor
   * overwrite value in a dataframe
+  * overwrite multiple values in a dataframe
