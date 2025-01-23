@@ -29,3 +29,4 @@
   * overwrite value in a dataframe
   * overwrite multiple values in a dataframe
   * rename index labels or columns in a dataframe
+  * delete rows or columns from a dataframe
