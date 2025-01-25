@@ -33,3 +33,4 @@
   * create random sample with the sample method
   * nsmallest and nlargest methods
   * filtering with the where method
+  * apply method with dataframes
