@@ -31,3 +31,4 @@
   * rename index labels or columns in a dataframe
   * delete rows or columns from a dataframe
   * create random sample with the sample method
+  * nsmallest and nlargest methods
