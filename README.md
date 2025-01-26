@@ -34,3 +34,6 @@
   * nsmallest and nlargest methods
   * filtering with the where method
   * apply method with dataframes
+
+* Working with text data
+  * common string function
