@@ -37,3 +37,4 @@
 
 * Working with text data
   * common string function
+  * filtering with string methods
