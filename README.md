@@ -40,3 +40,6 @@
   * filtering with string methods
   * methods on index and columns
   * split method
+
+* MultiIndex
+  * create a multiindex
