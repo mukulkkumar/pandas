@@ -39,3 +39,4 @@
   * common string function
   * filtering with string methods
   * methods on index and columns
+  * split method
