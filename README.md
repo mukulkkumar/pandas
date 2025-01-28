@@ -44,3 +44,4 @@
 * MultiIndex
   * create a multiindex
   * extract index level values
+  * rename index levels
