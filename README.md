@@ -45,3 +45,4 @@
   * create a multiindex
   * extract index level values
   * rename index levels
+  * sort_index method on multiindex dataframe
