@@ -47,3 +47,4 @@
   * rename index levels
   * sort_index method on multiindex dataframe
   * extract rows from a multiindex dataframe
+  * transpose method
