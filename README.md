@@ -49,3 +49,4 @@
   * extract rows from a multiindex dataframe
   * transpose method
   * stack method
+  * unstack method
