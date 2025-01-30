@@ -50,3 +50,4 @@
   * transpose method
   * stack method
   * unstack method
+  * pivot method
