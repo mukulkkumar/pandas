@@ -51,3 +51,4 @@
   * stack method
   * unstack method
   * pivot method
+  * melt method
