@@ -52,3 +52,4 @@
   * unstack method
   * pivot method
   * melt method
+  * pivot_table method
