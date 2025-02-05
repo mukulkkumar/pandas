@@ -53,3 +53,6 @@
   * pivot method
   * melt method
   * pivot_table method
+
+* GroupBy
+  * groupby method
