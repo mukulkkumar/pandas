@@ -57,3 +57,4 @@
 * GroupBy
   * groupby method
   * methods on groupby object
+  * grouping by multiple columns
