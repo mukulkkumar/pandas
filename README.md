@@ -56,3 +56,4 @@
 
 * GroupBy
   * groupby method
+  * methods on groupby object
