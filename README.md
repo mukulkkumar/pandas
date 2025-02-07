@@ -58,3 +58,5 @@
   * groupby method
   * methods on groupby object
   * grouping by multiple columns
+  * The agg method
+  * Iterating through groups
